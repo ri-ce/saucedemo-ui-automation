@@ -80,14 +80,6 @@ python -m pytest ui_tests --html=docs/test-report.html --self-contained-html
 - 项目页：`https://ri-ce.github.io/saucedemo-ui-automation/`
 - 测试报告：`https://ri-ce.github.io/saucedemo-ui-automation/test-report.html`
 
-## 简历写法
-
-```text
-基于 SauceDemo 公开商城完成 Playwright 网页自动化测试，采用 Page Object 模式
-封装登录、商品、购物车和结算页面，设计 12 条用例覆盖正常登录、异常账号、
-商品排序、购物车操作、表单校验和完整下单流程；配置显式等待、浏览器状态隔离
-和失败截图，并通过 GitHub Actions 自动安装浏览器和执行回归。
-```
 
 ## 项目边界
 
